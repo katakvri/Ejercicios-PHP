@@ -72,7 +72,7 @@
     echo "variable C = ".$c."<br>";
     echo "$n + $a = ".$n+$a."<br>";
     echo "$a - $n = ".$a-$n."<br>";
-    echo "el valor numerico del caracter $c es: "; // Por resolver
+    echo "el valor numerico del caracter $c es: ".ord($c);
     echo "<hr>";
     ?>
 </body>
