@@ -74,10 +74,6 @@
     echo "$a - $n = ".$a-$n."<br>";
     echo "el valor numerico del caracter $c es: "; // Por resolver
     echo "<hr>";
-
-    // 6)
-    echo "Ejercicio 6: <br><br>";
-
     ?>
 </body>
 </html>
